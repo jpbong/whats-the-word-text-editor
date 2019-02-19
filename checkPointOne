@@ -4,7 +4,8 @@ scene breaks, transitions, dialogue, voice overs and  title pages.
 2). Having used similar applications in the past I think I have enough of an understanding to improve on what I thought was lacking 
 or add what wasn’t there.
 3). The plan is to use the swing GUI for the text box and basic functions. Username and password will have to be provided by the user.
-Possibility of saving user documents online (FTP? But where to send? Tomcat’s servers?). Two pages possibly three (time permitting)
-Login, main page, and maybe script selection if there is an option for saving to an outside server.
-4). <a href="https://imgur.com/a/zVJGF9C">Screen Design</a>
-5).
+Possibility of saving user documents online (FTP? But where to send? Tomcat’s servers? AWS S3). Java mail will allow to java app to 
+send an email. Two pages possibly three (time permitting) Login, main page, and maybe script selection if there is an option for 
+saving to an outside server.
+4). [Screen Design](https://imgur.com/a/zVJGF9C")
+5). Time log:
