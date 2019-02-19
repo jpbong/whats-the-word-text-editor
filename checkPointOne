@@ -1,0 +1,8 @@
+1). A (collaborative?) text editor specifically for screenwriting. Including all the basic functionality of a usual text editor save, 
+save as, open, copy, paste, and cut along with more delineated usability with functions creating the correct format for action, 
+scene breaks, transitions, dialogue, voice overs and  title pages.
+2). Having used similar applications in the past I think I have enough of an understanding to improve on what I thought was lacking 
+or add what wasn’t there.
+3). The plan is to use the swing GUI for the text box and basic functions. Username and password will have to be provided by the user.
+Possibility of saving user documents online (FTP? But where to send? Tomcat’s servers?). Two pages possibly three (time permitting)
+Login, main page, and maybe script selection if there is an option for saving to an outside server. 
